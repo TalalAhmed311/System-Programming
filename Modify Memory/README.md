@@ -1,4 +1,4 @@
-# Testing Modifying memory of another program
+# Silly Attempt to modify memory of another program
 
 ```
 gcc -g -o program program.c
